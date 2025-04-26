@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\nvhLesson01\\nvhMyAppMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5619E38E-A29A-48CA-A584-16EF4358DA0C}|nvhMyAppMVC\\nvhMyAppMVC.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlesson01\\nvhmyappmvc\\nvhmyappmvc\\views\\nvhdemo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5619E38E-A29A-48CA-A584-16EF4358DA0C}|nvhMyAppMVC\\nvhMyAppMVC.csproj|solutionrelative:nvhmyappmvc\\views\\nvhdemo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5619E38E-A29A-48CA-A584-16EF4358DA0C}|nvhMyAppMVC\\nvhMyAppMVC.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlesson01\\nvhmyappmvc\\nvhmyappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5619E38E-A29A-48CA-A584-16EF4358DA0C}|nvhMyAppMVC\\nvhMyAppMVC.csproj|solutionrelative:nvhmyappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5619E38E-A29A-48CA-A584-16EF4358DA0C}|nvhMyAppMVC\\nvhMyAppMVC.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlesson01\\nvhmyappmvc\\nvhmyappmvc\\controllers\\nvhdemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5619E38E-A29A-48CA-A584-16EF4358DA0C}|nvhMyAppMVC\\nvhMyAppMVC.csproj|solutionrelative:nvhmyappmvc\\controllers\\nvhdemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\nvhLesson01\\nvhMyAppMVC\\nvhMyAppMVC\\Views\\NvhDemo\\Index.cshtml",
+              "RelativeDocumentMoniker": "nvhMyAppMVC\\Views\\NvhDemo\\Index.cshtml",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\nvhLesson01\\nvhMyAppMVC\\nvhMyAppMVC\\Views\\NvhDemo\\Index.cshtml",
+              "RelativeToolTip": "nvhMyAppMVC\\Views\\NvhDemo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T03:45:52.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NvhDemoController.cs",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\nvhLesson01\\nvhMyAppMVC\\nvhMyAppMVC\\Controllers\\NvhDemoController.cs",
+              "RelativeDocumentMoniker": "nvhMyAppMVC\\Controllers\\NvhDemoController.cs",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\nvhLesson01\\nvhMyAppMVC\\nvhMyAppMVC\\Controllers\\NvhDemoController.cs",
+              "RelativeToolTip": "nvhMyAppMVC\\Controllers\\NvhDemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T03:35:53.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\nvhLesson01\\nvhMyAppMVC\\nvhMyAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "nvhMyAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\nvhLesson01\\nvhMyAppMVC\\nvhMyAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "nvhMyAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T03:26:20.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
