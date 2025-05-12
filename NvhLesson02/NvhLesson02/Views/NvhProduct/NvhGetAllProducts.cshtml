@@ -1,0 +1,25 @@
+﻿
+
+@{
+    ViewData["Title"] = "NvhGetAllProducts";
+   
+}
+
+<h2>Dữ liệu lấy ra từ ViewBag</h2>
+<p>Mã sản phẩm: @ViewBag.nvhProductVB.NvhProductId</p>
+<p>Tên sản phẩm: @ViewBag.nvhProductVB.NvhProductName</p>
+<p>Năm sản xuất: @ViewBag.nvhProductVB.NvhYearRelease</p>
+<p>Giá: @ViewBag.productVB.NvhPrice</p>
+
+<hr />
+@{
+    var NvhProduct = ViewData["nvhProductVB"] as NvhLesson02.Models.NvhProduct;
+}
+
+<h2>Dữ liệu lấy ra từ ViewData</h2>
+<p>Mã sản phẩm: @NvhProduct.NvhProductId</p>
+<p>Tên sản phẩm: @NvhProduct.NvhProductName</p>
+<p>Năm sản xuất: @NvhProduct.NvhYearReLease</p>
+<p>Giá: @NvhProduct.NvhPrice</p>
+
+

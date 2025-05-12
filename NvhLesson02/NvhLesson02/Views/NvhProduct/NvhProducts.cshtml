@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+    var products = ViewBag.NvhProducts as List<NvhLesson02.Models.NvhProduct>;
+}
+
+<h2>DANH SÁCH SẢN PHẨM</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>Mã sản phẩm</td>
+            <td>Tên sản phẩm</td>
+            <td>Năm sản xuất</td>
+            <td>Giá</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in ViewBag.NvhProducts)
+        {
+            <tr>
+                <td>@p.NvhProductId</td>
+                <td>@p.NvhProductName</td>
+                <td>@p.NvhYearRelease</td>
+                <td>$ @p.NvhPrice</td>
+            </tr>
+        }
+    </tbody>
+</table>
