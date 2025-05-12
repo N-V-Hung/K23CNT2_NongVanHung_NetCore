@@ -1,5 +1,50 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿
+@model IEnumerable<NvhNetCoreMVCLab03.Models.NvhBook>
 @{
+	ViewData["Title"] = "NvhIndex";
 }
+<h2>Danh sach cac cuon sach</h2>
+<form action="" method="POST" class="form-inline" role="form">
+	<div class="form-group">
+		<select name="NvhAuthorId" class="form-control" asp-item="@ViewBag.nvhAthors">
+			<option value="">Chon tac gia </option>
+		</select>
+		<select name="NvhGenreId" class="form-control" asp-item="@ViewBag.nvhGenres">
+			<option value="">Chon the loai </option>
+		</select>
+	</div>
+	<button type="submit" class="btn btn-primary">tim kiem</button>
+	<a asp-action="Create" class="btn btn-danger">Them moi</a>
+</form>
+
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Tieu de</th>
+			<th>Tac gia</th>
+			<th>The loai</th>
+			<th>Gia</th>
+			<th>Hinh anh</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var nvhbook in Model)
+		{
+			<td>
+				<td>@nvhbook.NvhId</td>
+				<td>@nvhbook.NvhTitle</td>
+				<td>@nvhbook.NvhAuthorId</td>
+				<td>@nvhbook.NvhGenreId</td>
+				<td>@nvhbook.NvhPrice</td>
+				<td>
+					<img src="@nvhbook.NvhImage" alt="@nvhbook.NvhTitle" width="40" />
+				</td>
+				<td>
+					<a asp-action="Edit" asp-route-id="@nvhbook.NvhId" class="btn btn-primary">Sua</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

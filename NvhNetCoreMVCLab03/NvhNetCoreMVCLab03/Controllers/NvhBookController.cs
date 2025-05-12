@@ -12,5 +12,12 @@ namespace NvhNetCoreMVCLab03.Controllers
             var nvhbooks = nvhbook.NVhGetBookList();
             return View(nvhbooks);
         }
+        public IActionResult NvhCreate()
+        {
+            ViewBag.nvhAuthors = nvhbook.NvhAuthors;
+            ViewBag.nvhGenres = nvhbook.NvhGenres;
+            NvhBook model = new NvhBook();
+            return View(model);
+        }
     }
 }
