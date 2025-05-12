@@ -1,0 +1,35 @@
+﻿@model IEnumerable<NvhSanPham>
+@{
+    ViewBag.Title = "Danh sách sản phẩm";
+    var nvhDanhMuc = ViewBag.NvhDanhMuc as List<NvhDanhMuc>;
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <h4>DANH MỤC</h4>
+        <ul>
+            @foreach (var dm in nvhDanhMuc)
+            {
+                <li><a href="@Url.Action("Index", new { id = dm.NvhId })">@dm.NvhTenDanhMuc</a></li>
+            }
+        </ul>
+    </div>
+    <div class="col-md-9">
+        <h4>Danh sách sản phẩm</h4>
+        <div class="row">
+            @foreach (var nvhsp in Model)
+            {
+                <div class="col-md-4">
+                    <div class="card">
+                        <img src="@nvhsp.NvhAnh" class="card-img-top" />
+                        <div class="card-body">
+                            <h5>@nvhsp.NvhTenSanPham</h5>
+                            <p>Giá: <strike>@nvhsp.NvhGiaGoc</strike> <strong>@nvhsp.NvhGiaMoi</strong></p>
+                            <a href="@Url.Action("NvhChiTiet", new { Nvhid = nvhsp.NvhId })" class="btn btn-success">Chi tiết</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

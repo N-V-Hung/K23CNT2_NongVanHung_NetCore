@@ -22,6 +22,10 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Home}/{action=NvhIndex}/{Nvhid?}");
+app.MapControllerRoute(
+    name: "sanpham",
+    pattern: "san-pham/{Nvhid?}",
+    defaults: new { controller = "NvhSanPham", action = "NvhIndex" });
 
 app.Run();

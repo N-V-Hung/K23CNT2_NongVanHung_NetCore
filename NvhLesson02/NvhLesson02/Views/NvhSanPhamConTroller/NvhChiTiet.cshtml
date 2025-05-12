@@ -1,0 +1,19 @@
+﻿@model NvhSanPham
+@{
+    ViewBag.Title = "Chi tiết sản phẩm";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <img src="@Model.NvhAnh" class="img-fluid" />
+    </div>
+    <div class="col-md-8">
+        <h2>Sản phẩm: @Model.NvhTenSanPham</h2>
+        <p>Giá gốc: <strike>@Model.NvhGiaGoc</strike></p>
+        <p>Giá mới: <strong>@Model.NvhGiaMoi</strong></p>
+        <p>Mô tả: @Model.NvhMoTa</p>
+        <p>Trạng thái: @Model.NvhTrangThai</p>
+        <p>Ngày đăng: @Model.NvhNgayDang.ToString("dd/MM/yyyy hh:mm:ss tt")</p>
+        <a href="@Url.Action("NvhIndex")" class="btn btn-danger">Về danh sách</a>
+    </div>
+</div>

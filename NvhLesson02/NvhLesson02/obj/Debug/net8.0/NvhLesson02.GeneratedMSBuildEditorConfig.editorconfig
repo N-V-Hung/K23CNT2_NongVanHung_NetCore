@@ -34,12 +34,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson02/NvhLesson02/Views/NvhAccount/NvhIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoQWNjb3VudFxOdmhJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson02/NvhLesson02/Views/NvhProduct/NvhGetAllProducts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoUHJvZHVjdFxOdmhHZXRBbGxQcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson02/NvhLesson02/Views/NvhProduct/NvhProducts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoUHJvZHVjdFxOdmhQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson02/NvhLesson02/Views/NvhSanPhamConTroller/NvhChiTiet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoU2FuUGhhbUNvblRyb2xsZXJcTnZoQ2hpVGlldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson02/NvhLesson02/Views/NvhSanPhamConTroller/NvhIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoU2FuUGhhbUNvblRyb2xsZXJcTnZoSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson02/NvhLesson02/Views/Shared/Error.cshtml]

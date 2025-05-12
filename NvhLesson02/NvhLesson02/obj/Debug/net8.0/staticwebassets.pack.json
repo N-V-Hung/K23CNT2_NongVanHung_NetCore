@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLesson02\\NvhLesson02\\wwwroot\\images\\Avatar\\01.jfif",
+      "PackagePath": "staticwebassets\\images\\Avatar\\01.jfif"
+    },
+    {
+      "Id": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLesson02\\NvhLesson02\\wwwroot\\images\\Avatar\\02.jfif",
+      "PackagePath": "staticwebassets\\images\\Avatar\\02.jfif"
+    },
+    {
+      "Id": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLesson02\\NvhLesson02\\wwwroot\\images\\Avatar\\03.jfif",
+      "PackagePath": "staticwebassets\\images\\Avatar\\03.jfif"
+    },
+    {
+      "Id": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLesson02\\NvhLesson02\\wwwroot\\images\\Avatar\\04.jfif",
+      "PackagePath": "staticwebassets\\images\\Avatar\\04.jfif"
+    },
+    {
+      "Id": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLesson02\\NvhLesson02\\wwwroot\\images\\Avatar\\05.jfif",
+      "PackagePath": "staticwebassets\\images\\Avatar\\05.jfif"
+    },
+    {
       "Id": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLesson02\\NvhLesson02\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

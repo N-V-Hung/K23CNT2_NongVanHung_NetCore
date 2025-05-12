@@ -1,0 +1,9 @@
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\NvhNetCoreMVCLab03\NvhNetCoreMVCLab03\obj\Debug\net8.0\NvhNetCoreMVCLab03.csproj.AssemblyReference.cache
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\NvhNetCoreMVCLab03\NvhNetCoreMVCLab03\obj\Debug\net8.0\NvhNetCoreMVCLab03.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\NvhNetCoreMVCLab03\NvhNetCoreMVCLab03\obj\Debug\net8.0\NvhNetCoreMVCLab03.AssemblyInfoInputs.cache
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\NvhNetCoreMVCLab03\NvhNetCoreMVCLab03\obj\Debug\net8.0\NvhNetCoreMVCLab03.AssemblyInfo.cs
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\NvhNetCoreMVCLab03\NvhNetCoreMVCLab03\obj\Debug\net8.0\NvhNetCoreMVCLab03.csproj.CoreCompileInputs.cache
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\NvhNetCoreMVCLab03\NvhNetCoreMVCLab03\obj\Debug\net8.0\NvhNetCoreMVCLab03.MvcApplicationPartsAssemblyInfo.cache
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\NvhNetCoreMVCLab03\NvhNetCoreMVCLab03\obj\Debug\net8.0\NvhNetCoreMVCLab03.RazorAssemblyInfo.cache
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\NvhNetCoreMVCLab03\NvhNetCoreMVCLab03\obj\Debug\net8.0\NvhNetCoreMVCLab03.RazorAssemblyInfo.cs
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\NvhNetCoreMVCLab03\NvhNetCoreMVCLab03\obj\Debug\net8.0\NvhNetCoreMVCLab03.sourcelink.json
