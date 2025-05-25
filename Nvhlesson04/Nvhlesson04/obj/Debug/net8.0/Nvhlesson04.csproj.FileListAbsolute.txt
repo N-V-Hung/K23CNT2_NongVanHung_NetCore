@@ -1,0 +1,9 @@
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\Nvhlesson04\Nvhlesson04\obj\Debug\net8.0\Nvhlesson04.csproj.AssemblyReference.cache
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\Nvhlesson04\Nvhlesson04\obj\Debug\net8.0\Nvhlesson04.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\Nvhlesson04\Nvhlesson04\obj\Debug\net8.0\Nvhlesson04.AssemblyInfoInputs.cache
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\Nvhlesson04\Nvhlesson04\obj\Debug\net8.0\Nvhlesson04.AssemblyInfo.cs
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\Nvhlesson04\Nvhlesson04\obj\Debug\net8.0\Nvhlesson04.csproj.CoreCompileInputs.cache
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\Nvhlesson04\Nvhlesson04\obj\Debug\net8.0\Nvhlesson04.MvcApplicationPartsAssemblyInfo.cache
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\Nvhlesson04\Nvhlesson04\obj\Debug\net8.0\Nvhlesson04.RazorAssemblyInfo.cache
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\Nvhlesson04\Nvhlesson04\obj\Debug\net8.0\Nvhlesson04.RazorAssemblyInfo.cs
+D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\Nvhlesson04\Nvhlesson04\obj\Debug\net8.0\Nvhlesson04.sourcelink.json
