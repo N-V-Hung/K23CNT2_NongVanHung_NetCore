@@ -1,0 +1,53 @@
+﻿@model IEnumerable<NvhLab6.Models.NvhEmployee>
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center">
+		<h2>Danh sách nhân viên</h2>
+		<a href="/NvhEmployee/NvhCreate" class="btn btn-primary">Thêm mới</a>
+        
+    </div>
+   
+    <table class="table table-bordered table-striped mt-3">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Tên</th>
+                <th>Ngày sinh</th>
+                <th>Email</th>
+                <th>Điện thoại</th>
+                <th>Lương</th>
+                <th>Trạng thái</th>
+                <th>Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var nvhEmp in Model)
+            {
+                <tr>
+                    <td class="text-center">@nvhEmp.NvhId</td>
+                    <td>@nvhEmp.NvhName</td>
+                    <td>@nvhEmp.NvhBirthDay.ToString("dd/mm/yyyy")</td>
+                    <td>@nvhEmp.NvhEmail</td>
+                    <td>@nvhEmp.NvhPhone</td>
+                    <td class="text-end">@nvhEmp.NvhSalary.ToString("N0")</td>
+                    <td class="text-center">
+                        @if (nvhEmp.NvhStatus)
+                        {
+                            <span class="badge bg-success">Dang Lam</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-secondary">Nghi viec</span>
+                        }
+                    </td>
+                    <td>
+                        <a class="btn btn-warning" asp-action="NvhEdit" asp-route-id="@nvhEmp.NvhId">Sửa</a> |
+                        <a class="btn btn-danger" asp-action="NvhDelete" asp-route-id="@nvhEmp.NvhId">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

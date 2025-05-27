@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NvhLab6
+build_property.RootNamespace = NvhLab6
+build_property.ProjectDir = D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\NvhLab6\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\NvhLab6
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLab6/Views/NvhEmployee/NvhCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoRW1wbG95ZWVcTnZoQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLab6/Views/NvhEmployee/NvhEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoRW1wbG95ZWVcTnZoRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLab6/Views/NvhEmployee/NvhIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoRW1wbG95ZWVcTnZoSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLab6/Views/NvhHome/NvhAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoSG9tZVxOdmhBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLab6/Views/NvhHome/NvhIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoSG9tZVxOdmhJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLab6/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLab6/Views/Shared/_NvhNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OdmhOYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLab6/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLab6/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLab6/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLab6/Views/Shared/_NvhLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OdmhMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-e8eoxteztf

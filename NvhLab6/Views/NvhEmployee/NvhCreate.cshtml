@@ -1,0 +1,32 @@
+﻿@model NvhLab6.Models.NvhEmployee
+@{
+    ViewData["Title"] = "Them moi nhan vien";
+}
+<form asp-action="NvhCreateSubmit" method="post">
+    <div class="form-group">
+        <label>Họ tên</label>
+        <input asp-for="NvhName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Ngày sinh</label>
+        <input asp-for="NvhBirthDay" type="date" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="NvhEmail" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Điện thoại</label>
+        <input asp-for="NvhPhone" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Lương</label>
+        <input asp-for="NvhSalary" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Trạng thái</label>
+        <input asp-for="NvhStatus" type="checkbox" />
+    </div>
+    <button type="submit" class="btn btn-success">Lưu</button>
+    <a asp-action="NvhIndex" class="btn btn-secondaty">Quay lai</a>
+</form>

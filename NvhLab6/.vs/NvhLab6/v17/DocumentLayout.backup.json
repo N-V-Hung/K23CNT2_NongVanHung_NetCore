@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlab6\\views\\nvhemployee\\nvhedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|solutionrelative:views\\nvhemployee\\nvhedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlab6\\views\\nvhemployee\\nvhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|solutionrelative:views\\nvhemployee\\nvhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlab6\\controllers\\nvhemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|solutionrelative:controllers\\nvhemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlab6\\models\\nvhemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|solutionrelative:models\\nvhemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlab6\\controllers\\nvhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|solutionrelative:controllers\\nvhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlab6\\views\\nvhemployee\\nvhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|solutionrelative:views\\nvhemployee\\nvhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlab6\\views\\nvhhome\\nvhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|solutionrelative:views\\nvhhome\\nvhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlab6\\views\\shared\\_nvhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|solutionrelative:views\\shared\\_nvhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlab6\\views\\shared\\_nvhnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|solutionrelative:views\\shared\\_nvhnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlab6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9D75DC0-C862-4EB3-A189-791B1D9AEC5A}|NvhLab6.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NvhCreate.cshtml",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Views\\NvhEmployee\\NvhCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\NvhEmployee\\NvhCreate.cshtml",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Views\\NvhEmployee\\NvhCreate.cshtml",
+              "RelativeToolTip": "Views\\NvhEmployee\\NvhCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T03:05:00.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NvhEdit.cshtml",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Views\\NvhEmployee\\NvhEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\NvhEmployee\\NvhEdit.cshtml",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Views\\NvhEmployee\\NvhEdit.cshtml",
+              "RelativeToolTip": "Views\\NvhEmployee\\NvhEdit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T03:14:31.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NvhIndex.cshtml",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Views\\NvhEmployee\\NvhIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\NvhEmployee\\NvhIndex.cshtml",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Views\\NvhEmployee\\NvhIndex.cshtml",
+              "RelativeToolTip": "Views\\NvhEmployee\\NvhIndex.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T02:53:08.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NvhEmployeeController.cs",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Controllers\\NvhEmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NvhEmployeeController.cs",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Controllers\\NvhEmployeeController.cs",
+              "RelativeToolTip": "Controllers\\NvhEmployeeController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:45:14.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NvhEmployee.cs",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Models\\NvhEmployee.cs",
+              "RelativeDocumentMoniker": "Models\\NvhEmployee.cs",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Models\\NvhEmployee.cs",
+              "RelativeToolTip": "Models\\NvhEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:43:12.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:37:31.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NvhAbout.cshtml",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Views\\NvhHome\\NvhAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\NvhHome\\NvhAbout.cshtml",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Views\\NvhHome\\NvhAbout.cshtml",
+              "RelativeToolTip": "Views\\NvhHome\\NvhAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T01:34:33.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NvhHomeController.cs",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Controllers\\NvhHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NvhHomeController.cs",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Controllers\\NvhHomeController.cs",
+              "RelativeToolTip": "Controllers\\NvhHomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:33:52.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_NvhLayout.cshtml",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Views\\Shared\\_NvhLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_NvhLayout.cshtml",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Views\\Shared\\_NvhLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_NvhLayout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T01:30:36.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_NvhNavBar.cshtml",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Views\\Shared\\_NvhNavBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_NvhNavBar.cshtml",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Views\\Shared\\_NvhNavBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_NvhNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T01:32:31.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLab6\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T01:30:24.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
