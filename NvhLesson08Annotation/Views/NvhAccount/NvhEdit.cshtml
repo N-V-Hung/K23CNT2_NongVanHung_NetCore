@@ -1,0 +1,75 @@
+﻿@model NvhLesson08Annotation.Models.NvhAccount
+
+@{
+    ViewData["Title"] = "NvhEdit";
+}
+
+<h1>NvhEdit</h1>
+
+<h4>NvhAccount</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="NvhEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NvhId" class="control-label"></label>
+                <input asp-for="NvhId" class="form-control" />
+                <span asp-validation-for="NvhId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhFullName" class="control-label"></label>
+                <input asp-for="NvhFullName" class="form-control" />
+                <span asp-validation-for="NvhFullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhEmail" class="control-label"></label>
+                <input asp-for="NvhEmail" class="form-control" />
+                <span asp-validation-for="NvhEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhPhone" class="control-label"></label>
+                <input asp-for="NvhPhone" class="form-control" />
+                <span asp-validation-for="NvhPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhAddress" class="control-label"></label>
+                <input asp-for="NvhAddress" class="form-control" />
+                <span asp-validation-for="NvhAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhAvatar" class="control-label"></label>
+                <input asp-for="NvhAvatar" class="form-control" />
+                <span asp-validation-for="NvhAvatar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhBirthDay" class="control-label"></label>
+                <input asp-for="NvhBirthDay" class="form-control" />
+                <span asp-validation-for="NvhBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhGender" class="control-label"></label>
+                <input asp-for="NvhGender" class="form-control" />
+                <span asp-validation-for="NvhGender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhPassword" class="control-label"></label>
+                <input asp-for="NvhPassword" class="form-control" />
+                <span asp-validation-for="NvhPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhFacebook" class="control-label"></label>
+                <input asp-for="NvhFacebook" class="form-control" />
+                <span asp-validation-for="NvhFacebook" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="NvhIndex">Back to List</a>
+</div>
+

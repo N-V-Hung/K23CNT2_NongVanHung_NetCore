@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLesson08Annotation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC787629-64FD-4255-85C6-A4B5A4785BA9}|NvhLesson08Annotation.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlesson08annotation\\views\\nvhaccount\\nvhdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC787629-64FD-4255-85C6-A4B5A4785BA9}|NvhLesson08Annotation.csproj|solutionrelative:views\\nvhaccount\\nvhdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC787629-64FD-4255-85C6-A4B5A4785BA9}|NvhLesson08Annotation.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlesson08annotation\\controllers\\nvhaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC787629-64FD-4255-85C6-A4B5A4785BA9}|NvhLesson08Annotation.csproj|solutionrelative:controllers\\nvhaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC787629-64FD-4255-85C6-A4B5A4785BA9}|NvhLesson08Annotation.csproj|d:\\dev\\k23cnt2_netcore\\k23cnt2_nongvanhung_netcore\\nvhlesson08annotation\\views\\nvhaccount\\nvhedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC787629-64FD-4255-85C6-A4B5A4785BA9}|NvhLesson08Annotation.csproj|solutionrelative:views\\nvhaccount\\nvhedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NvhDelete.cshtml",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLesson08Annotation\\Views\\NvhAccount\\NvhDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\NvhAccount\\NvhDelete.cshtml",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLesson08Annotation\\Views\\NvhAccount\\NvhDelete.cshtml",
+              "RelativeToolTip": "Views\\NvhAccount\\NvhDelete.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T02:56:29.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NvhEdit.cshtml",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLesson08Annotation\\Views\\NvhAccount\\NvhEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\NvhAccount\\NvhEdit.cshtml",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLesson08Annotation\\Views\\NvhAccount\\NvhEdit.cshtml",
+              "RelativeToolTip": "Views\\NvhAccount\\NvhEdit.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T02:55:42.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NvhAccountController.cs",
+              "DocumentMoniker": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLesson08Annotation\\Controllers\\NvhAccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NvhAccountController.cs",
+              "ToolTip": "D:\\dev\\K23CNT2_NetCore\\K23CNT2_NongVanHung_NetCore\\NvhLesson08Annotation\\Controllers\\NvhAccountController.cs*",
+              "RelativeToolTip": "Controllers\\NvhAccountController.cs*",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAswMEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:05:03.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

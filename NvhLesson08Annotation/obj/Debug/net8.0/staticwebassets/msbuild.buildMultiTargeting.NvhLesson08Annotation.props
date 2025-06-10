@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NvhLesson08Annotation.props" />
+</Project>

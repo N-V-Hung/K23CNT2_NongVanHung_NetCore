@@ -1,0 +1,89 @@
+﻿@model IEnumerable<NvhLesson08Annotation.Models.NvhAccount>
+
+@{
+    ViewData["Title"] = "NvhIndex";
+}
+
+<h1>NvhIndex</h1>
+
+<p>
+    <a asp-action="NvhCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NvhId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvhFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvhEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvhPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvhAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvhAvatar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvhBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvhGender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvhPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvhFacebook)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvhId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvhFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvhEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvhPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvhAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvhAvatar)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvhBirthDay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvhGender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvhPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvhFacebook)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "NvhEdit", new {  id=item.NvhId  }) |
+                @Html.ActionLink("Details", "NvhDetails", new { id = item.NvhId }) |
+                @Html.ActionLink("Delete", "NvhDelete", new { id = item.NvhId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

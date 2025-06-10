@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NvhLesson08Annotation
+build_property.RootNamespace = NvhLesson08Annotation
+build_property.ProjectDir = D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\NvhLesson08Annotation\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\dev\K23CNT2_NetCore\K23CNT2_NongVanHung_NetCore\NvhLesson08Annotation
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson08Annotation/Views/NvhAccount/NvhCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoQWNjb3VudFxOdmhDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson08Annotation/Views/NvhAccount/NvhDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoQWNjb3VudFxOdmhEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson08Annotation/Views/NvhAccount/NvhDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoQWNjb3VudFxOdmhEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson08Annotation/Views/NvhAccount/NvhEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoQWNjb3VudFxOdmhFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson08Annotation/Views/NvhAccount/NvhIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoQWNjb3VudFxOdmhJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson08Annotation/Views/NvhHome/NvhAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoSG9tZVxOdmhBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson08Annotation/Views/NvhHome/NvhIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnZoSG9tZVxOdmhJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson08Annotation/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson08Annotation/Views/Shared/_NvhNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OdmhOYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson08Annotation/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson08Annotation/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson08Annotation/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/K23CNT2_NetCore/K23CNT2_NongVanHung_NetCore/NvhLesson08Annotation/Views/Shared/_NvhLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OdmhMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hh9md5c2vc
