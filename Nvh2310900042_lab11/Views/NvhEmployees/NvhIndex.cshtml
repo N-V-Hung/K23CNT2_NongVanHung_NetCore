@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Nvh2310900042_lab11.Models.NvhEmployee>
+
+@{
+    ViewData["Title"] = "NvhIndex";
+}
+
+<h1>Them moi</h1>
+
+<p>
+    <a asp-action="NvhCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NvhEmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvhEmpLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvhEmpStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvhEmpStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvhEmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvhEmpLevel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvhEmpStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvhEmpStatus)
+            </td>
+            <td>
+                    <a asp-action="NvhEdit" asp-route-nvhId="@item.NvhEmpId">Sửa</a>   |
+                <a asp-action="NvhDetails" asp-route-nvhId="@item.NvhEmpId">Details</a> |
+                <a asp-action="NvhDelete" asp-route-nvhId="@item.NvhEmpId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,50 @@
+﻿@model Nvh2310900042_lab11.Models.NvhEmployee
+
+@{
+    ViewData["Title"] = "NvhCreate";
+}
+
+<h1>Create</h1>
+
+<h4>NvhEmployee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="NvhCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NvhEmpId" class="control-label"></label>
+                <input asp-for="NvhEmpId" class="form-control" />
+                <span asp-validation-for="NvhEmpId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhEmpName" class="control-label"></label>
+                <input asp-for="NvhEmpName" class="form-control" />
+                <span asp-validation-for="NvhEmpName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhEmpLevel" class="control-label"></label>
+                <input asp-for="NvhEmpLevel" class="form-control" />
+                <span asp-validation-for="NvhEmpLevel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhEmpStartDate" class="control-label"></label>
+                <input asp-for="NvhEmpStartDate" class="form-control" />
+                <span asp-validation-for="NvhEmpStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvhEmpStatus" class="control-label"></label>
+                <input asp-for="NvhEmpStatus" class="form-control" />
+                <span asp-validation-for="NvhEmpStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="NvhCreate" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="NvhIndex">Back to List</a>
+</div>
+
